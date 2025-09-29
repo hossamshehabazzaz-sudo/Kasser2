@@ -17,7 +17,7 @@ from datetime import datetime
 init(autoreset=True)
 
 # --- إعدادات البوت ---
-TELEGRAM_BOT_TOKEN = "7894565052:AAGua5sTPiNw8Y1SehVH-6KDMPaxEyChPgI"
+TELEGRAM_BOT_TOKEN = "8236113298:AAHzMg-ICmkjWBy48HYOTIbe90wlHzaC3VY"
 
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 USER_SESSIONS = {}  # لكل مستخدم بياناته
